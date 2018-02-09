@@ -6,10 +6,10 @@ import json
 data_array=[]
 
 #Variables that contains the user credentials to access Twitter API 
-access_token = "958434177736740871-Zu1DYe88RpXruMDpJtHA2h1bCXodCdo"
-access_token_secret = "zaCsZPH1y7Q0svdFAjbgOr0VruSUUQaHhA5cSRhRLCYoB"
-consumer_key = "8zpPkup54geZPCOJvcAEMxA5D"
-consumer_secret = "ZnlXSLHPZouvovxtUQkXlnz4kUlFTJ0bmxbYWJqnAYPtpzlQ8o"
+access_token = "xxxxx"
+access_token_secret = "xxxxx"
+consumer_key = "xxxxx"
+consumer_secret = "xxxxx"
 
 page_template = """
 <html>
